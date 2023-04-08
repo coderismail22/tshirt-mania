@@ -1,0 +1,11 @@
+.tshirt{
+    margin: .5rem;
+border: 1px solid rgb(102, 110, 211);
+border-radius: 1rem;
+padding: 0.5rem;
+}
+
+.tshirt img{
+    height: 250px;
+    border-radius: 1rem;
+}
